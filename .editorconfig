@@ -1,0 +1,16 @@
+# 让这个文件生效
+root = true 
+# // 对所有文件都生效
+[*] 
+# 编码
+charset = utf-8  
+# 缩进'tabs键',如果习惯用空格可以设为'space'
+indent_style = space 
+# 缩进的尺寸
+indent_size = 2 
+#  换行符格式(开发系统差异)
+end_of_line = lf
+# 是否在文件的最后插入一个空行
+insert_final_newline = true 
+# 是否删除行尾的空格
+trim_trailing_whitespace = true 
